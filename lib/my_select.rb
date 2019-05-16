@@ -5,5 +5,5 @@ while i < collection.length
   yield(collection[i]) == true
   i += 1
 end
-collection
+new_collection
 end
